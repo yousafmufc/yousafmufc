@@ -2,6 +2,10 @@ Hi there! I'm Yousaf, a passionate engineer interested in stepping into the mach
 
 I am also an automation enthusiast, and have experience working in the industrial automation field and robotics.
 
+languages and tools:
+![python](https://user-images.githubusercontent.com/33321743/200417007-866dd921-ddff-4116-8f95-49911956684c.png)
+
+
 
 <!---
 yousafmufc/yousafmufc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
