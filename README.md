@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yousafmufc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E3iUfqWhoHsCPiKla6ODp-lErujiwBWC/view?usp=sharing](https://drive.google.com/file/d/1E3iUfqWhoHsCPiKla6ODp-lErujiwBWC/view?usp=sharing)
+- 📄 Know about my experiences [Yousaf's Resume](https://drive.google.com/file/d/1E3iUfqWhoHsCPiKla6ODp-lErujiwBWC/view?usp=sharing)
 
 - ⚡ Fun fact **I regularly play FIFA on PS5**
 
